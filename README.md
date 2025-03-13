@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Attiq</h1>
 <h3 align="center">Undergraduate Student in Computer Engineering</h3>
-
+👨‍💻 Computer Engineer passionate about coding and problem-solving 
+🔍 Enthusiast in Machine Learning, System Programming, and Open Source  
+- 🖥️ Skilled in C, C++, Python, ML Algorithms, and Linux 
+- ⚡ Always exploring new technologies and building cool projects
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-attiq-ce/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-attiq-ce/" height="30" width="40" /></a>
