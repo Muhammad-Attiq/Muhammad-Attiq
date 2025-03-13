@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Attiq</h1>
-<h3 align="center">Undergraduate Student in Computer Engineering</h3>
+- 👨‍💻 Undergraduate Student in Computer Engineering passionate about coding and problem-solving
+- 🖥️ Skilled in C, C++, Python, ML Algorithms, and Linux
+- 🔍 Enthusiast in Machine Learning, System Programming, and Open Source
+- ⚡ Always exploring new technologies and building cool projects
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
