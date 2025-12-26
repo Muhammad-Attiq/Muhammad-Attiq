@@ -19,6 +19,7 @@ I work primarily in **Python**, experimenting with modern frameworks while conti
 
 ### 🐍 Programming
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++&logoColor=white)
 
 ### 🧠 Machine Learning
 ![ML](https://img.shields.io/badge/Supervised_Learning-0f2027?style=for-the-badge)
