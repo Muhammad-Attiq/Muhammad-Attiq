@@ -1,7 +1,7 @@
 ## 🤖 AI Engineer in the Making
 
 <h1 align="center" style="color:#00F5FF;">Computer Engineer</h1>
-<h3 align="center" style="color:#00F5FF;">ML | DL | NLP | Transformers</h3>
+<h2 align="center" style="color:#00F5FF;">ML | DL | NLP | Transformers</h2>
 
 ---
 
