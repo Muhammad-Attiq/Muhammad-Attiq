@@ -17,7 +17,7 @@ I work primarily in **Python**, experimenting with modern frameworks while conti
 ## 🧬 AI Skills Matrix
 
 ### 🐍 Programming
-![Python](https://img.shields.io/badge/Python-00f5ff?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🧠 Machine Learning
 ![ML](https://img.shields.io/badge/Supervised_Learning-0f2027?style=for-the-badge)
