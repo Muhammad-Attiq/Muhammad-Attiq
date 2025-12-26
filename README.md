@@ -23,6 +23,7 @@ I work primarily in **Python**, experimenting with modern frameworks while conti
 ![ML](https://img.shields.io/badge/Supervised_Learning-0f2027?style=for-the-badge)
 ![ML](https://img.shields.io/badge/Unsupervised_Learning-2c5364?style=for-the-badge)
 ![ML](https://img.shields.io/badge/Model_Evaluation-000000?style=for-the-badge)
+![ML](https://img.shields.io/badge/Model_Training-2c5364?style=for-the-badge)
 
 ### 🔥 Deep Learning
 ![DL](https://img.shields.io/badge/Neural_Networks-1e1e1e?style=for-the-badge)
