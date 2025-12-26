@@ -1,6 +1,9 @@
 ## 🤖 AI Engineer in the Making
 
-![Typing](https://readme-typing-svg.herokuapp.com?size=22&color=00F5FF&lines=Computer+Engineer;Diving+Deep+into+AI;ML+%7C+DL+%7C+NLP+%7C+Transformers;Building+Intelligent+Systems)
+<h1 align="center">Computer Engineer</h1>
+<h2 align="center">Diving Deep into AI</h2>
+<h3 align="center">ML | DL | NLP | Transformers</h3>
+<p align="center"><b>Building Intelligent Systems</b></p>
 
 ---
 
