@@ -1,9 +1,7 @@
 ## 🤖 AI Engineer in the Making
 
 <h1 align="center">Computer Engineer</h1>
-<h2 align="center">Diving Deep into AI</h2>
-<h3 align="center">ML | DL | NLP | Transformers</h3>
-<p align="center"><b>Building Intelligent Systems</b></p>
+<h3 align="center">ML | DL | NLP | Transformers | Large Language Models</h1>
 
 ---
 
