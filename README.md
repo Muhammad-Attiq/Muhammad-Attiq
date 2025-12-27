@@ -2,11 +2,9 @@
 <h1 align="center" style="color:#00F5FF; font-size:28px;"> Computer Engineer </h1> <h2 align="center" style="color:#FFD21E; font-size:20px;"> ML · DL · NLP · Transformers · LLMs </h2>
 🧠 About Me
 
-I am a Computer Engineer diving deep into Artificial Intelligence,
-focused on understanding how machines learn, reason, and understand language.
+I am a Computer Engineer diving deep into Artificial Intelligence, focused on understanding how machines learn, reason, and understand language.
 
-I prioritize strong fundamentals, hands-on implementation, and
-model internals instead of treating AI as a black box.
+I prioritize strong fundamentals, hands-on implementation, and model internals instead of treating AI as a black box.
 
 💻 Primary language: Python
 🧪 Approach: Theory + Practice
