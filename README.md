@@ -1,11 +1,11 @@
 ## 🤖 AI Engineer in the Making
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F5FF&center=true&vCenter=true&width=600&lines=Computer+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F5FF&center=true&vCenter=true&width=600&lines=Computer+Engineer&repeat=false" />
 </h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=FFD21E&center=true&vCenter=true&width=700&lines=ML+·+DL+·+NLP+·+Transformers+·+LLMs" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&color=FFD21E&center=true&vCenter=true&width=700&lines=ML+·+DL+·+NLP+·+Transformers+·+LLMs&repeat=false" />
 </h2>
 
 ---
@@ -25,32 +25,32 @@ I prioritize **strong fundamentals**, **hands-on implementation**, and
 
 ## 🧬 AI Skills Matrix
 
-<h3 style="color:#00F5FF;">🐍 Programming</h3>
+<h3>🐍 Programming</h3>
 
 🔹 Python  
-🔹 C++
+🔹 C++  
 
-<h3 style="color:#FFD21E;">🧠 Machine Learning</h3>
+<h3>🧠 Machine Learning</h3>
 
 🟦 Supervised Learning  
 🟩 Unsupervised Learning  
 🟨 Model Training  
 🟪 Model Evaluation  
 
-<h3 style="color:#ff6f00;">🔥 Deep Learning</h3>
+<h3>🔥 Deep Learning</h3>
 
 🟥 Neural Networks  
 🟧 Convolutional Neural Networks (CNNs)  
 🟦 Recurrent Neural Networks (RNNs)  
 🟩 Backpropagation  
 
-<h3 style="color:#2c5364;">🗣️ Natural Language Processing</h3>
+<h3>🗣️ Natural Language Processing</h3>
 
 🟣 Text Preprocessing  
 🟦 Tokenization  
 🟨 Word & Sentence Embeddings  
 
-<h3 style="color:#00F5FF;">🔗 Transformers & LLMs</h3>
+<h3>🔗 Transformers & LLMs</h3>
 
 🟠 Attention Mechanism  
 🟦 Encoder–Decoder Architecture  
@@ -81,5 +81,5 @@ I prioritize **strong fundamentals**, **hands-on implementation**, and
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=16&duration=4000&color=00F5FF&center=true&vCenter=true&width=800&lines=Building+intelligence+from+fundamentals+—+not+treating+AI+as+a+black+box." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=16&color=00F5FF&center=true&vCenter=true&width=800&lines=Building+intelligence+from+fundamentals+—+not+treating+AI+as+a+black+box.&repeat=false" />
 </h3>
