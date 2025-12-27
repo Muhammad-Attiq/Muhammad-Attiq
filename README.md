@@ -1,78 +1,85 @@
 ## 🤖 AI Engineer in the Making
 
-<h1 align="center" style="color:#00F5FF;">Computer Engineer</h1>
-<h2 align="center" style="color:#00F5FF;">ML · DL · NLP · Transformers · LLMs</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F5FF&center=true&vCenter=true&width=600&lines=Computer+Engineer" />
+</h1>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=FFD21E&center=true&vCenter=true&width=700&lines=ML+·+DL+·+NLP+·+Transformers+·+LLMs" />
+</h2>
 
 ---
 
 ## 🧠 About Me
 
-I am a <span style="color:#00F5FF;"><b>Computer Engineer</b></span> diving deep into  
-<span style="color:#FFD21E;"><b>Artificial Intelligence</b></span>, exploring how machines learn, reason, and understand language.
+I am a **Computer Engineer** diving deep into **Artificial Intelligence**,  
+focused on understanding how machines **learn, reason, and understand language**.
 
-My focus spans  
-<span style="color:#ff6f00;">Machine Learning</span>,  
-<span style="color:#2c5364;">Deep Learning</span>,  
-<span style="color:#0f2027;">Natural Language Processing</span>,  
-<span style="color:#ff6f00;">Transformers</span>, and  
-<span style="color:#1e1e1e;">Large Language Models</span>.
+I prioritize **strong fundamentals**, **hands-on implementation**, and  
+**model internals** instead of treating AI as a black box.
 
-I prioritize strong fundamentals, hands-on implementation, and understanding model internals rather than treating AI as a black box.
-
-I work primarily in <span style="color:#3776AB;"><b>Python</b></span>, experimenting with modern frameworks while strengthening my theoretical foundations.
+💻 Primary language: **Python**  
+🧪 Approach: **Theory + Practice**
 
 ---
 
 ## 🧬 AI Skills Matrix
 
-### 🐍 Programming
-- <span style="color:#3776AB;"><b>Python</b></span>
-- <span style="color:#00599C;"><b>C++</b></span>
+<h3 style="color:#00F5FF;">🐍 Programming</h3>
 
-### 🧠 Machine Learning
-- <span style="color:#ff6f00;">Supervised Learning</span>
-- <span style="color:#2c5364;">Unsupervised Learning</span>
-- <span style="color:#00F5FF;">Model Training</span>
-- <span style="color:#00F5FF;">Model Evaluation</span>
+🔹 Python  
+🔹 C++
 
-### 🔥 Deep Learning
-- <span style="color:#ff6f00;">Neural Networks</span>
-- <span style="color:#2c5364;">Convolutional Neural Networks (CNNs)</span>
-- <span style="color:#0f2027;">Recurrent Neural Networks (RNNs)</span>
-- <span style="color:#00F5FF;">Backpropagation</span>
+<h3 style="color:#FFD21E;">🧠 Machine Learning</h3>
 
-### 🗣️ Natural Language Processing
-- <span style="color:#2c5364;">Text Preprocessing</span>
-- <span style="color:#0f2027;">Tokenization</span>
-- <span style="color:#ff6f00;">Word & Sentence Embeddings</span>
+🟦 Supervised Learning  
+🟩 Unsupervised Learning  
+🟨 Model Training  
+🟪 Model Evaluation  
 
-### 🔗 Transformers & LLMs
-- <span style="color:#ff6f00;">Attention Mechanism</span>
-- <span style="color:#2c5364;">Encoder–Decoder Architecture</span>
-- <span style="color:#1e1e1e;">Large Language Models (LLMs)</span>
-- <span style="color:#00F5FF;">Prompt Engineering</span>
+<h3 style="color:#ff6f00;">🔥 Deep Learning</h3>
+
+🟥 Neural Networks  
+🟧 Convolutional Neural Networks (CNNs)  
+🟦 Recurrent Neural Networks (RNNs)  
+🟩 Backpropagation  
+
+<h3 style="color:#2c5364;">🗣️ Natural Language Processing</h3>
+
+🟣 Text Preprocessing  
+🟦 Tokenization  
+🟨 Word & Sentence Embeddings  
+
+<h3 style="color:#00F5FF;">🔗 Transformers & LLMs</h3>
+
+🟠 Attention Mechanism  
+🟦 Encoder–Decoder Architecture  
+⚫ Large Language Models (LLMs)  
+🟢 Prompt Engineering  
 
 ---
 
 ## 🛠️ Tools & Frameworks
-- <span style="color:#4D77CF;">NumPy</span>
-- <span style="color:#2c5364;">Pandas</span>
-- <span style="color:#ff6f00;">Scikit-Learn</span>
-- <span style="color:#EE4C2C;">PyTorch</span>
-- <span style="color:#FF6F00;">TensorFlow</span>
-- <span style="color:#FFD21E;">Hugging Face</span>
+
+🧩 NumPy  
+📊 Pandas  
+🧠 Scikit-Learn  
+🔥 PyTorch  
+⚙️ TensorFlow  
+🤗 Hugging Face  
 
 ---
 
 ## ⚙️ Currently Working On
-- 🧠 <span style="color:#00F5FF;">Strengthening ML & DL fundamentals</span>  
-- 🗣️ <span style="color:#2c5364;">Building NLP pipelines</span>  
-- 🔗 <span style="color:#ff6f00;">Understanding Transformer internals</span>  
-- 🤖 <span style="color:#1e1e1e;">Exploring Large Language Models</span>  
-- 🧪 <span style="color:#3776AB;">Python-based AI experiments</span>  
+
+🧠 Strengthening ML & DL fundamentals  
+🗣️ Building NLP pipelines  
+🔗 Understanding Transformer internals  
+🤖 Exploring Large Language Models  
+🧪 Python-based AI experiments  
 
 ---
 
-<h3 align="center" style="color:#00F5FF;">
-Building intelligence from fundamentals — not treating AI as a black box.
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=16&duration=4000&color=00F5FF&center=true&vCenter=true&width=800&lines=Building+intelligence+from+fundamentals+—+not+treating+AI+as+a+black+box." />
 </h3>
