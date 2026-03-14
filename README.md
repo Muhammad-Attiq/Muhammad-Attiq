@@ -15,9 +15,9 @@ I emphasize **strong theoretical foundations** combined with **hands-on implemen
 
 ---
 
-## 🧬 Technical Skills
+## Technical Skills
 
-### 🐍 Programming Languages
+### Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -25,7 +25,7 @@ I emphasize **strong theoretical foundations** combined with **hands-on implemen
 
 ---
 
-### 🧠 Machine Learning
+### Machine Learning
 <p align="center">
   <img src="https://img.shields.io/badge/Supervised_Learning-0f2027?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Unsupervised_Learning-2c5364?style=for-the-badge" />
@@ -35,7 +35,7 @@ I emphasize **strong theoretical foundations** combined with **hands-on implemen
 
 ---
 
-### 🔥 Deep Learning
+### Deep Learning
 <p align="center">
   <img src="https://img.shields.io/badge/Neural_Networks-1e1e1e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CNNs-2c5364?style=for-the-badge" />
@@ -54,7 +54,7 @@ I emphasize **strong theoretical foundations** combined with **hands-on implemen
 
 ---
 
-### 🔗 Transformers & Large Language Models
+### Transformers & Large Language Models
 <p align="center">
   <img src="https://img.shields.io/badge/Attention_Mechanisms-ff6f00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Encoder--Decoder_Architectures-2c5364?style=for-the-badge" />
@@ -64,7 +64,7 @@ I emphasize **strong theoretical foundations** combined with **hands-on implemen
 
 ---
 
-## 🛠️ Tools & Frameworks
+## Tools & Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pandas-2c5364?style=for-the-badge" />
@@ -76,7 +76,7 @@ I emphasize **strong theoretical foundations** combined with **hands-on implemen
 
 ---
 
-## ⚙️ Current Focus Areas
+## Current Focus Areas
 
 - Strengthening **Machine Learning and Deep Learning fundamentals**
 - Designing and implementing **NLP pipelines**
