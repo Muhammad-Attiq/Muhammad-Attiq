@@ -45,8 +45,3 @@ Particularly drawn to **systems-level thinking** — understanding how software 
 *B.E. Computer Engineering · 3rd Year · Focus: Systems · AI · Web*
 
 ---
-
-## Portfolio
-
-🔗 **[View Full Interactive Portfolio →](https://muhammadattiq.github.io/portfolio)**
-
