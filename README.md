@@ -43,4 +43,4 @@ Primary Languages: C/C++ | Python | Verilog
 
 I am a Computer Engineering student with hands-on experience in systems programming, embedded systems, and FPGA design, along with foundational exposure to AI integration and software development.
 
-My interests lie in bridging hardware and software—understanding how digital systems are designed at the hardware level (FPGA/Verilog) and how they interact with efficient software systems and modern AI tools.
+My interests lie in bridging hardware and software understanding how digital systems are designed at the hardware level (FPGA/Verilog) and how they interact with efficient software systems and modern AI tools.
