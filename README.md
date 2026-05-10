@@ -1,11 +1,11 @@
 # Muhammad Attiq
 
-![Computer Engineering](https://img.shields.io/badge/Computer%20Engineering-Student-1a6cf0?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Systems%20%7C%20AI%20%7C%20Software-0f6e56?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-238636?style=flat-square)
-![Primary Languages](https://img.shields.io/badge/Languages-C%2FC%2B%2B%20%7C%20Python-555?style=flat-square)
+Computer Engineering Student  
+Focus: Systems | Embedded Systems | FPGA | AI | Software  
+Status: Open to Opportunities  
+Primary Languages: C/C++ | Python | Verilog
 
-> Computer Engineering student focused on systems programming, software development, and applied AI solutions.
+> Computer Engineering student focused on systems programming, embedded systems, FPGA design, and applied AI solutions.
 
 ---
 
@@ -15,6 +15,8 @@
 |------|------|
 | C / C++ | Advanced |
 | Python | Intermediate–Advanced |
+| Verilog / FPGA Design | Intermediate |
+| Embedded Systems | Intermediate |
 | Data Structures & Algorithms | Intermediate |
 | AI / LLM Integration | Intermediate |
 | Web Development (HTML/CSS/JS) | Intermediate |
@@ -26,7 +28,9 @@
 
 | Domain | Technologies |
 |--------|-------------|
-| Systems Programming | C, C++, Memory Management, Embedded Concepts |
+| Systems Programming | C, C++, Memory Management |
+| Embedded Systems | Microcontrollers, Hardware Interfacing |
+| FPGA / Digital Design | Verilog, RTL Design Concepts |
 | Scripting & Automation | Python, CLI Tools, File Handling |
 | AI / APIs | LLM Integration, Prompt Engineering, REST APIs, JSON |
 | Web Development | HTML, CSS, JavaScript, Responsive Design |
@@ -37,6 +41,6 @@
 
 ## Profile Summary
 
-I am a Computer Engineering student with experience in systems programming, software development, and foundational AI integration.
+I am a Computer Engineering student with hands-on experience in systems programming, embedded systems, and FPGA design, along with foundational exposure to AI integration and software development.
 
-My focus areas include understanding low-level system behavior, building efficient applications, and applying AI tools to improve development workflows.
+My interests lie in bridging hardware and software—understanding how digital systems are designed at the hardware level (FPGA/Verilog) and how they interact with efficient software systems and modern AI tools.
