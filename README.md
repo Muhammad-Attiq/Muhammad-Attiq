@@ -13,7 +13,7 @@ Primary Languages: C/C++ | Python | Verilog
 
 | Area | Level |
 |------|------|
-| C / C++ | Advanced |
+| C / C++ | Intermediate |
 | Python | Intermediate–Advanced |
 | Verilog / FPGA Design | Intermediate |
 | Embedded Systems | Intermediate |
