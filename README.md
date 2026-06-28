@@ -1,7 +1,7 @@
 # Muhammad Attiq
 
 Computer Engineering Student  
-Focus: Systems | Embedded Systems | FPGA | AI | Software  
+Focus: Cloud | Embedded Systems | FPGA | AI | Software  
 Status: Open to Opportunities  
 Primary Languages: C/C++ | Python | Verilog
 
